@@ -374,12 +374,12 @@ pip install torch torchvision tensorflow pandas numpy matplotlib wandb
 
 
 
+<!-- ======================================= Start DEFAULT Footer ===========================================  -->
+
 
 <br><br>
 
 
-
-<!-- ======================================= Start DEFAULT Footer ===========================================  -->
 
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
