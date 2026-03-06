@@ -153,29 +153,13 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 <br><br>
 
 
-
-## [Core Learning Pillars]()
-
-<br>
-
-| Architecture | Application | Use Case |
-|--------------|-------------|----------|
-| **CNN** | Computer Vision | Images, Object Detection |
-| **MLP** | Classic Neural Networks | Tabular Data, Classification |
-| **RNN** | Sequential Data | Time Series, Text |
-| **GAN** | Data Generation | Synthetic Images, Augmentation |
-
-
-<br><br>
-
-
-## [Architecture Applications]()  
+## [Architecture Applications - Core Learning Pillars]() 
 
 <br>
 
-| **Acronym** | **Full Name** | **Primary Application** | **Real-World Use** |
+| [**Acronym**() | [**Full Name**()  | [**Primary Application**()  | [**Real-World Use**]()  |
 |-------------|---------------|-------------------------|-------------------|
-| **CNN** | Convolutional Neural Network | **Computer Vision** | Image classification, object detection, facial recognition |
+| **CNN**]()  | Convolutional Neural Network | **Computer Vision** | Image classification, object detection, facial recognition |
 | **MLP** | Multilayer Perceptron | **Classic Neural Networks** | Tabular data prediction, regression, binary classification |
 | **RNN** | Recurrent Neural Network | **Sequential Data** | Text generation, time series forecasting, speech recognition |
 | **GAN** | Generative Adversarial Network | **Data Generation** | Image synthesis, deepfakes, data augmentation, art generation |
