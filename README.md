@@ -88,7 +88,7 @@
 
 
 
-## [What is Machine Learning?]() (Kid-Friendly Explanation) 
+## [What is Machine Learning?]() 
 
 <br>
 
@@ -157,12 +157,12 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 
 <br>
 
-| [**Acronym**() | [**Full Name**()  | [**Primary Application**()  | [**Real-World Use**]()  |
+| [**Acronym**]() | [**Full Name**]()  | [**Primary Application**]()  | [**Real-World Use**]()  |
 |-------------|---------------|-------------------------|-------------------|
-| **CNN**]()  | Convolutional Neural Network | **Computer Vision** | Image classification, object detection, facial recognition |
-| **MLP** | Multilayer Perceptron | **Classic Neural Networks** | Tabular data prediction, regression, binary classification |
-| **RNN** | Recurrent Neural Network | **Sequential Data** | Text generation, time series forecasting, speech recognition |
-| **GAN** | Generative Adversarial Network | **Data Generation** | Image synthesis, deepfakes, data augmentation, art generation |
+| [**CNN**]()  | Convolutional Neural Network | **Computer Vision** | Image classification, object detection, facial recognition |
+| [**MLP**]( | Multilayer Perceptron | **Classic Neural Networks** | Tabular data prediction, regression, binary classification |
+| [**RNN**]( | Recurrent Neural Network | **Sequential Data** | Text generation, time series forecasting, speech recognition |
+| [**GAN**]( | Generative Adversarial Network | **Data Generation** | Image synthesis, deepfakes, data augmentation, art generation |
 
 
 
@@ -182,10 +182,10 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 
 | [Week]() | [Date]()       | [Sub-repositories - Topic Summary]()                                 | [Notes/Files Placeholder]()                  |
 |------|------------|-------------------------------------------------------------------------------|------------------------------------------|
-| 1    | 19 Feb    | Introduction to Machine Learning                                              | `/week-1/intro-ml.ipynb`     |
-| 2    | 26 Feb    | What are neural networks? Intro to Perceptron. Basic shallow NN model.        | `/week-2/perceptron/`          |
-| 3    | 05 Mar    | Supervised training: Loss functions, hyperparameter tuning.                   | `/week-3/training/`              |
-| 4    | 12 Mar    | Building shallow NNs with TensorFlow & PyTorch (dense layers).                | `/week-4/tf-pytorch/`         |
+| 1    | 19 Feb    | [Machine Learning - From Fundamentals to Deep Networks]()                                              | `/week-1/intro-ml.ipynb`     |
+| 2    | 26 Feb    | [What are neural networks? Intro to Perceptron. Basic shallow NN model]()        | `/week-2/perceptron/`          |
+| 3    | 05 Mar    | [Supervised training: Loss functions, hyperparameter tuning]()                   | `/week-3/training/`              |
+| 4    | 12 Mar    | [Building shallow NNs with TensorFlow & PyTorch (dense layers)]()                | `/week-4/tf-pytorch/`         |
 | 5    | 19 Mar    | Evaluating shallow NNs: Metrics. Loading data (CSV, HDF5, images).            | `/week-5/evaluation/`        |
 | 7    | 02 Apr    | Academic recess (Easter). No class.                                           | -                                        |
 | 8    | 09 Apr    | Continued: Preprocessing & advanced NNs in PyTorch/TensorFlow.                | `/week-8/advanced-nns/`      |
