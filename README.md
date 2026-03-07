@@ -160,9 +160,9 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 | [**Acronym**]() | [**Full Name**]()  | [**Primary Application**]()  | [**Real-World Use**]()  |
 |-------------|---------------|-------------------------|-------------------|
 | [**CNN**]()  | Convolutional Neural Network | **Computer Vision** | Image classification, object detection, facial recognition |
-| [**MLP**]( | Multilayer Perceptron | **Classic Neural Networks** | Tabular data prediction, regression, binary classification |
-| [**RNN**]( | Recurrent Neural Network | **Sequential Data** | Text generation, time series forecasting, speech recognition |
-| [**GAN**]( | Generative Adversarial Network | **Data Generation** | Image synthesis, deepfakes, data augmentation, art generation |
+| [**MLP**]() | Multilayer Perceptron | **Classic Neural Networks** | Tabular data prediction, regression, binary classification |
+| [**RNN**]() | Recurrent Neural Network | **Sequential Data** | Text generation, time series forecasting, speech recognition |
+| [**GAN**]() | Generative Adversarial Network | **Data Generation** | Image synthesis, deepfakes, data augmentation, art generation |
 
 
 
