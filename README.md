@@ -260,9 +260,9 @@ That’s Machine Learning: systems that learn patterns from data.
 |------|-------------------------------------------------------------------------------|--------------------------------------|
 |      | 🖼️ **Part II — CNNs & Advanced Architectures**                               |    `/week-9/cnn-intro/`               |
 | 9    | [CNNs: Convolutions, pooling & architectures]()                                |                    |
-| 10   | [Project 1: PyTorch Digit and Letter Classification Oral Presentation]Z()      |  `/seminar-1/`                |
+| 10   | [Project 1: PyTorch Digit and Letter Classification - Oral Presentation]()      |  `/seminar-1/`                |
 | 11   | [Training CNNs: optimization & regularization]()                             | `/week-11/cnn-training/`             |
-| 12   | CNN Applications (vision tasks & augmentation)   | Seminar 1                 | `/week-12/cnn-apps/`                 |
+| 12   | CNN Applications (vision tasks & augmentation)                 | `/week-12/cnn-apps/`                 |
 | 13   | RNNs (LSTM/GRU) — sequence modeling                                          | `/week-13/rnns/`                     |
 | 14   | Encoder–Decoder (translation & generation)                                   | `/week-14/encoder-decoder/`          |
 | 15   | GANs — generative models                                                     | `/week-15/gans/`                     |
