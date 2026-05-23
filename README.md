@@ -118,11 +118,10 @@ Neural Networks • Deep Learning • Real-world Applications
 >
 > <br>
 >
-> [***Training models to predict the next token… while humans question the previous one — turning papers into projects, confusion into intuition, and GPUs into room heaters.***]() ⚡️
+> ***Training models to predict the next token[...]() while humans question the previous one [!]() Turning papers into projects[,]() confusion into intuition[,]() and GPUs into room heaters[.]()*** ⚡️
 >
 > <br>
 >
-> 
 <br><br>
 
 #
