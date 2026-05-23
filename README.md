@@ -150,23 +150,15 @@ This repository outlines a structured journey from **foundations to advanced neu
 
 <br>
 
-**Phase I — MLP** → fundamentals, training, evaluation  
-**Phase II — Deep Learning** → CNNs, RNNs, GANs, Reinforcement Learning  
+[**Phase I — MLP**]() → fundamentals, training, evaluation  
+[**Phase II — Deep Learning**]() → CNNs, RNNs, GANs, Reinforcement Learning  
 
 <br>
 
 `foundations → modeling → training → applications`
 
 <br><br>
-
-
 <!-- ========= END Repo Introductio ========= -->
-
-
-<!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
-
-
-
 
 
 <!-- ======================================= 🏄‍♀️ Start BODY ===========================================  -->
