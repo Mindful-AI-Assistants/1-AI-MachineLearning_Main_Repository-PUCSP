@@ -90,14 +90,14 @@ Neural Networks • Deep Learning • Real-world Applications
 
 <!-- ========= START Repo TIP ========= -->
 > [!TIP]
-> ###  🦾👽🪽 AI Resources 
+> ### 🦾👽🪽 AI Resources
 >
 > High-signal links for learning, building, and understanding modern AI systems.
 >
 > **Core Reading**
 > - [*Hands-On Machine Learning with Scikit-Learn & TensorFlow* — Aurélien Géron](https://github.com/Mindful-AI-Assistants/1-AI-MachineLearning_Main_Repository-PUCSP/blob/592fb02bd2868e9342d8584d57dcded7c15f41d1/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
 >
-> - [**Artificial Intelligence: A Modern Approach** *(Peter Norvig & Stuart Russell)*](https://github.com/Mindful-AI-Assistants/1-AI_Machine-Learning_Hub/blob/10f7eb68022f632c643333527931e6e541868c80/Intelige%CC%82ncia%20Artificia%20A%20Modern%20Approachl%20(Peter%20Norvig%2C%20Stuart%20Russell.pdf)
+> - [**Artificial Intelligence: A Modern Approach** *(Peter Norvig & Stuart Russell)*]()
 >
 > <br>
 >
@@ -113,11 +113,16 @@ Neural Networks • Deep Learning • Real-world Applications
 > - [`run.c` (llama2.c)](https://github.com/karpathy/llama2.c/blob/350e04fe35433e6d2941dce5a1f53308f87058eb/run.c)
 >
 > <br>
-> _Signal > noise._
-> <br>
-><br>
 >
-
+> [_Signal]() > noise. [Curiosity]() > hype. [Coffee]() > convergence._
+>
+> <br>
+>
+> [***Training models to predict the next token… while humans question the previous one — turning papers into projects, confusion into intuition, and GPUs into room heaters.***]() ⚡️
+>
+> <br>
+>
+> 
 <br><br>
 
 #
@@ -188,7 +193,7 @@ That’s Machine Learning: systems that learn patterns from data.
 - [Tooling Stack](#tooling-stack)
 - [Contributing Guidelines](#contributing-guidelines)
 - [Bibliographic References](#bibliographic-references)
-- [Contact Me](#contact-me)
+- [Contact Us](#contact-us)
 
 
 <br><br>
