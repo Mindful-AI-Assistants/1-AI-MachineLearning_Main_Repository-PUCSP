@@ -42,14 +42,11 @@ Neural Networks • Deep Learning • Real-world Applications
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
 
-<br><br>
+<br><br><br><br>
 <!-- =========  END PUC HEADER GIF ========= -->
 
 
 <!-- ======================================= Start nstitucional INFOR ===========================================  -->
-
-<br><br>
-
 ### Machine Learning Integrated Project - PUC-SP 5th Semester (2026)
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
@@ -58,19 +55,11 @@ Neural Networks • Deep Learning • Real-world Applications
 **Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
 [Extensionist Activities:]() Social projects with open-source software for community support.  <br>
 
-
-
-<br><br>
-
+<br><br><br><br>
 <!-- ========= END Institucional INFO ========= -->
 
 
-<br><br>
-
-
-
 <!-- ========= START Confidentiality statement ========= -->
-
 > [!NOTE]
 > 
 > ⚠️ Heads Up
@@ -87,7 +76,6 @@ Neural Networks • Deep Learning • Real-world Applications
 
 
 <!-- ========= START BADGES ========= -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/MLP-Neural%20Networks-1ABC9C" />
   <img src="https://img.shields.io/badge/CNN-Computer%20Vision-16A085" />
@@ -96,19 +84,22 @@ Neural Networks • Deep Learning • Real-world Applications
   <img src="https://img.shields.io/badge/RL-Reinforcement%20Learning-76D7C4" />
 </p>
 
-
 <br><br><br><br>
 <!-- ========= END START BADGES ========= -->
 
 
 <!-- ========= START Repo TIP ========= -->
 > [!TIP]
-> ### 🚀 AI Resources
+> ###  🦾👽🪽 AI Resources 
 >
 > High-signal links for learning, building, and understanding modern AI systems.
 >
-> **📘 Core Reading**
+> **Core Reading**
 > - [*Hands-On Machine Learning with Scikit-Learn & TensorFlow* — Aurélien Géron](https://github.com/Mindful-AI-Assistants/1-AI-MachineLearning_Main_Repository-PUCSP/blob/592fb02bd2868e9342d8584d57dcded7c15f41d1/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
+>
+> - [**Artificial Intelligence: A Modern Approach** *(Peter Norvig & Stuart Russell)*](https://github.com/Mindful-AI-Assistants/3-distributed-system-mcp-smart-incident-analyzer/blob/90f1da40fa7a5a4887c49b9471f15744c7d132a4/Intelige%CC%82ncia%20Artificia%20A%20Modern%20Approachl%20(Peter%20Norvig%2C%20Stuart%20Russell)%20.pdf)
+>
+> <br>
 >
 > **🔗 References**
 > - [Stanford Online — AI Programs](https://stanford.io/ai)
