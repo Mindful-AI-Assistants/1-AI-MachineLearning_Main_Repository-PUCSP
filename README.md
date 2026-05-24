@@ -95,9 +95,9 @@ Neural Networks • Deep Learning • Real-world Applications
 > High-signal links for learning, building, and understanding modern AI systems.
 >
 > **Core Reading**
-> - [*Hands-On Machine Learning with Scikit-Learn & TensorFlow* — Aurélien Géron](https://github.com/Mindful-AI-Assistants/1-AI-MachineLearning_Main_Repository-PUCSP/blob/592fb02bd2868e9342d8584d57dcded7c15f41d1/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
+> - [*Hands-On Machine Learning with Scikit-Learn & TensorFlow* - Aurélien Géron](https://github.com/Mindful-AI-Assistants/1-AI-MachineLearning_Main_Repository-PUCSP/blob/592fb02bd2868e9342d8584d57dcded7c15f41d1/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
 >
-> - [**Artificial Intelligence: A Modern Approach** *(Peter Norvig & Stuart Russell)*]()
+> - [*Artificial Intelligence: A Modern Approach* - Peter Norvig & Stuart Russell]()
 >
 > <br>
 >
