@@ -112,16 +112,18 @@ Neural Networks • Deep Learning • Real-world Applications
 > - [RNNs Effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 > - [`run.c` (llama2.c)](https://github.com/karpathy/llama2.c/blob/350e04fe35433e6d2941dce5a1f53308f87058eb/run.c)
 >
-> <br>
+> <br> <br>
 >
 > [_Signal]() > noise. [Curiosity]() > hype. [Coffee]() > convergence._
 >
+> ***Training models to predict the next token[...]() While humans question the previous one*** [.]() <br>
+> ***Turning papers into projects[,]() confusion into intuition[,]() and GPUs into room heaters*** [.]()  <br>
+> ⚡️
+>
+
 > <br>
 >
-> ***Training models to predict the next token[...]() while humans question the previous one [!]() Turning papers into projects[,]() confusion into intuition[,]() and GPUs into room heaters[.]()*** ⚡️
->
-> <br>
->
+
 <br><br>
 
 #
