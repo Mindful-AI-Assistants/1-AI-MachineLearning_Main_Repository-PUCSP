@@ -99,6 +99,8 @@ Neural Networks • Deep Learning • Real-world Applications
 >
 > - [*Artificial Intelligence: A Modern Approach* - Peter Norvig & Stuart Russell]()
 >
+> - [*Attention Is All You Need]()
+>
 > <br>
 >
 > **🔗 References**
