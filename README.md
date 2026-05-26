@@ -97,7 +97,7 @@ Neural Networks • Deep Learning • Real-world Applications
 > **Core Reading**
 > - [*Hands-On Machine Learning with Scikit-Learn & TensorFlow* - Aurélien Géron](https://github.com/Mindful-AI-Assistants/1-AI-MachineLearning_Main_Repository-PUCSP/blob/592fb02bd2868e9342d8584d57dcded7c15f41d1/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
 >
-> - [*Artificial Intelligence: A Modern Approach* - Peter Norvig & Stuart Russell](https://github.com/Mindful-AI-Assistants/1-AI_Machine-Learning_Hub/blob/ababbc7c933b399cbdaf2d1d5cd8f5317f378a4a/AI_MLPapers_%20Books_Etc/Intelige%CC%82ncia%20Artificia%20A%20Modern%20Approachl%20(Peter%20Norvig%2C%20Stuart%20Russell.pdf)
+> - [*Artificial Intelligence: A Modern Approach* - Peter Norvig & Stuart Russell](https://github.com/Mindful-AI-Assistants/1-AI_Machine-Learning_Hub/blob/67b85178e068072f89a4b6d0fc2d58daba0c08b4/AI_MLPapers_%20Books_Etc/AI_A_Modern_Approach-Peter-Norvig_Stuart-Russell.pdf)
 > - 
 >
 > - [*Attention Is All You Need]()
