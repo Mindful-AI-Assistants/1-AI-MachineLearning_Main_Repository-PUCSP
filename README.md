@@ -114,7 +114,11 @@ Neural Networks • Deep Learning • Real-world Applications
 > - [RNNs Effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 > - [`run.c` (llama2.c)](https://github.com/karpathy/llama2.c/blob/350e04fe35433e6d2941dce5a1f53308f87058eb/run.c)
 >
-> <br> <br>
+> 
+>  ** 🛠 Tools**
+>  - [Teachable Machine](https://teachablemachine.withgoogle.com);  a lightweight, browser-based tool from Google for rapidly training and testing image classifiers with your own data.
+>
+>  <br> <br>
 >
 > [_Signal]() > noise. [Curiosity]() > hype. [Coffee]() > convergence._
 >
@@ -122,7 +126,6 @@ Neural Networks • Deep Learning • Real-world Applications
 > ***Turning papers into projects[,]() confusion into intuition[,]() and GPUs into room heaters*** [.]()  <br>
 > ⚡️
 >
-
 > <br>
 >
 
