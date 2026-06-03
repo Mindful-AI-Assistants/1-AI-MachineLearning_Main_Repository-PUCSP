@@ -184,6 +184,15 @@ That’s Machine Learning: systems that learn patterns from data.
 
 <br><br>
 
+## [Types de Neural Networks in Artificial Intelligence]()
+
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e5adf0e2-c6d1-4f92-8391-b86f450414a7"/> </p>
+
+
+<br><br>
+
 
 ## Table of Contents
 
