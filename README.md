@@ -259,15 +259,14 @@ That’s Machine Learning: systems that learn patterns from data.
 |------|-------------------------------------------------------------------------------|--------------------------------------|
 |      | 🖼️ **Part II — CNNs & Advanced Architectures**                               |    `/week-9/cnn-intro/`               |
 | 9    | [CNNs: Convolutions, pooling & architectures]()                                |                    |
-| 10   | [Project 1: PyTorch Digit and Letter Classification - Oral Presentation](https://github.com/Mindful-AI-Assistants/2-ai-ml-emnist-vision-intelligence-pproject)      |  `/seminar-1/`                |
+| 10   | [Project 1: 🦾 **PyTorch Digit and Letter Classification** - Oral Presentation](https://github.com/Mindful-AI-Assistants/2-ai-ml-emnist-vision-intelligence-pproject)      |  `/seminar-1/`                |
 | 11   | [Training CNNs: optimization & regularization]()                             | `/week-11/cnn-training/`             |
-| 12   | [CNN Applications (vision tasks & augmentation)                 | `/week-12/cnn-apps/`                 |
-| 13   | RR-CNN, YOLO                                        | `/week-13/rnns/`                     |
-| 14   | Encoder-Decoder , Style-Transfer, GAN                                | `/week-14/encoder-decoder/`          |
-| 15   | Custo Energetico da IA                                                    | `/week-15/gans/`                     |
-| 16   | Holiday (Corpus Christi) — No class                                          | —                                    |
-| 17   | Reinforcement Learning (Q-Learning, SARSA)                                   | `/week-17/rl/`                       |
-| 18   | Seminar 2                                                                     | `/seminar-2/`                        |
+| 12   | [CNN Applications (vision tasks & augmentation)]()                 | `/week-12/cnn-apps/`                 |
+| 13   | [R-CNN, YOLO]()                                        | `/week-13/rnns/`                     |
+| 14   | [Encoder-Decoder , Style-Transfer, GAN]()                               | `/week-14/encoder-decoder/`          |
+| 15   | [Artificial Inteligewnce ⚡️ Energy Cost]()                                                   | `/week-15/gans/`                     |
+| 16   | [Reinforcement Learning (Q-Learning, SARSA)]()                                   | `/week-17/rl/`                       |
+| 17   | [Project 2: 🛰️  **Object Detection in Satellite Images with YOLO** - Oral Presentation]() - Oral Presentation]   | `/seminar-2/`  |
 
 
 
