@@ -101,7 +101,7 @@ Neural Networks • Deep Learning • Real-world Applications
 >
 > - [*Attention Is All You Need*](https://github.com/Mindful-AI-Assistants/1-AI_Machine-Learning_Hub/blob/30882a35c37e8ced5a2a2afa774cb4013028c856/AI_MLPapers_%20Books_Etc/Attention%20Is%20All%20You%20Need.pdf)
 >  
-> - [What makes a harness a harness: necessary and sufficient conditions for an agent harness]()
+> - [What makes a harness a harness: necessary and sufficient conditions for an agent harness](https://github.com/Mindful-AI-Assistants/1-AI_Machine-Learning_Hub/blob/62bc39daece25e1c4f60a388c79b197b61dd0034/What%20makes%20a%20harness%20a%20harness%20-%20Sandeco%20Macedo.pdf)
 > 
 > <br>
 >
