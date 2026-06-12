@@ -100,7 +100,9 @@ Neural Networks • Deep Learning • Real-world Applications
 > - [*Artificial Intelligence: A Modern Approach* - Peter Norvig & Stuart Russell](https://github.com/Mindful-AI-Assistants/1-AI_Machine-Learning_Hub/blob/67b85178e068072f89a4b6d0fc2d58daba0c08b4/AI_MLPapers_%20Books_Etc/AI_A_Modern_Approach-Peter-Norvig_Stuart-Russell.pdf)
 >
 > - [*Attention Is All You Need*](https://github.com/Mindful-AI-Assistants/1-AI_Machine-Learning_Hub/blob/30882a35c37e8ced5a2a2afa774cb4013028c856/AI_MLPapers_%20Books_Etc/Attention%20Is%20All%20You%20Need.pdf)
->
+>  
+> - [What makes a harness a harness: necessary and sufficient conditions for an agent harness]()
+> 
 > <br>
 >
 > **🔗 References**
