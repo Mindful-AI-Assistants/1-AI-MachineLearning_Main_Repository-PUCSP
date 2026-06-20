@@ -262,7 +262,7 @@ That’s Machine Learning: systems that learn patterns from data.
 |      | 🖼️ **Part II — CNNs & Advanced Architectures**                               |    `/week-9/cnn-intro/`               |
 | 9    | [CNNs: Convolutions, pooling & architectures]()                                |                    |
 | 10   | [Project 1: 🦾 **PyTorch Digit and Letter Classification** - Oral Presentation](https://github.com/Mindful-AI-Assistants/2-ai-ml-emnist-vision-intelligence-pproject)      |  `/seminar-1/`                |
-| 11   | [Training CNNs: optimization & regularization]()                             | `/week-11/cnn-training/`             |
+| 11   | [Training CNNs: optimization & regularization](https://github.com/Mindful-AI-Assistants/1-AI_Machine-Learning_Hub/tree/d0607291473861cb84346d95baf1b324d41e07af/class__11-Training%20CNNs-%20optimization%20%26%20regularization)                             | `/week-11/cnn-training/`             |
 | 12   | [CNN Applications (vision tasks & augmentation)]()                 | `/week-12/cnn-apps/`                 |
 | 13   | [R-CNN, YOLO]()                                        | `/week-13/rnns/`                     |
 | 14   | [Encoder-Decoder , Style-Transfer, GAN]()                               | `/week-14/encoder-decoder/`          |
