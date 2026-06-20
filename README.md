@@ -266,7 +266,7 @@ That’s Machine Learning: systems that learn patterns from data.
 | 12   | [CNN Applications (vision tasks & augmentation)]()                 | `/week-12/cnn-apps/`                 |
 | 13   | [R-CNN, YOLO]()                                        | `/week-13/rnns/`                     |
 | 14   | [Encoder-Decoder , Style-Transfer, GAN]()                               | `/week-14/encoder-decoder/`          |
-| 15   | [Artificial Inteligewnce ⚡️ Energy Cost]()                                                   | `/week-15/gans/`                     |
+| 15   | [Artificial Inteligence and ⚡️ Energy Cost]()                                                   | `/week-15/gans/`                     |
 | 16   | [Reinforcement Learning (Q-Learning, SARSA)]()                                   | `/week-17/rl/`                       |
 | 17   | [Project 2: 🛰️  **Object Detection in Satellite Images with YOLO** - Oral Presentation - Oral Presentation]()   | `/seminar-2/`  |
 
