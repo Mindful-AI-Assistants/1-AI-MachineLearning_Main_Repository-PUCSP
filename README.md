@@ -5,7 +5,7 @@
 
 <br><br>
 
-#  <p align="center"> 1-  [Machine Learning]() - [Hub]() 🦾👽🪽
+#  <p align="center"> 1-  [AI]() / [Machine Learning]() - [Hub]() 🦾👽🪽
 
 
 <p align="center">
