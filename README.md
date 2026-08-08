@@ -59,19 +59,16 @@ Neural Networks • Deep Learning • Real-world Applications
 <!-- ========= END Institucional INFO ========= -->
 
 
-<!-- ========= START Confidentiality statement ========= -->
-> [!NOTE]
-> 
-> ⚠️ Heads Up
+<!-- ========= START NOTE ========= -->
+> [!WARNING]
 >
-> * Projects may be made [publicly available]() whenever possible  
-> * Focus on **hands-on experience** with real datasets  
-> * Activities follow [**PUC-SP academic and ethical guidelines**]()  
-> * Restricted content remains **confidential**  
-> <br>
+> ⚠️ Projects may be publicly shared when permitted.  
+> The focus is on applied, hands-on learning with real datasets in AI governance and security contexts.  
+> All sensitive content remains protected in private repositories when required.
+>
 
-<br><br><br><br>
-<!-- ========= End Confidentiality statement ========= -->
+<br><br>
+<!-- ========= END NOTE ========= -->
 
 
 
