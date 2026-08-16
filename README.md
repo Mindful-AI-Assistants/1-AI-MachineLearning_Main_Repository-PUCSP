@@ -12,7 +12,7 @@
 
 
 <p align="center">
-PUC-SP • 5th Semester • 2026<br>
+PUC-SP • 5th and  6th  Semester • 2026<br>
 Neural Networks • Deep Learning • Real-world Applications
 </p>
 
@@ -52,9 +52,10 @@ Neural Networks • Deep Learning • Real-world Applications
 <!-- ======================================= Start nstitucional INFOR ===========================================  -->
 ### Machine Learning Integrated Project - PUC-SP 5th Semester (2026)
 
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
-[**School:**]() Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() AI / ML  -  <br>
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  <br>
+[**School:**]() FACEI — Computer Science Department  <br>
+[**Course:**]() BSc in Human-Centered AI & Data Science • 5th and  6th Semester • 2026 <br>
+[**Subject:**](): AI / ML  - Neural Networks  <br>
 **Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
 **Author:** [Fabiana ⚡️ Campnari]() 
 
