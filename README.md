@@ -10,11 +10,9 @@
 
 ### <p align="center">A structured journey through **Neural Networks**, from foundational concepts to advanced architectures, combining theory, hands-on experimentation, model development, and real-world AI applications.</p>
 
+ <br> <br>
 
-<p align="center">
-PUC-SP • 5th and  6th  Semester • 2026<br>
-Neural Networks • Deep Learning • Real-world Applications
-</p>
+#### <p align="center"> PUC-SP • 5th and  6th  Semester • 2026 </p> <p align="center"> Neural Networks • Deep Learning • Real-world Applications </p> 
 
 <br><br>
 <!-- ========= END REPO TITLE ========= -->
@@ -32,7 +30,7 @@ Neural Networks • Deep Learning • Real-world Applications
 <!-- ========= END START BADGES ========= -->
 
 <!-- ========= Start Teaser ========= -->
-###### <p align="center"> ✨ **Training models to predict the next token... while humans question the previous one .**
+###### <p align="center"> ✨ **Training models to predict the next token... while humans question the previous one .** ✨
 ###### <p align="center"> ***Turning papers into projects, confusion into intuition, and GPUs into room heaters since forever***
 #### <p align="center"> ⚡️
 
@@ -66,11 +64,11 @@ Neural Networks • Deep Learning • Real-world Applications
 **Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
 **Author:** [Fabiana ⚡️ Campnari]() 
 
-<br><br>
+<br>
 
 #
 
-<br><br>
+<br>
 <!-- ========= END Institucional INFO ========= -->
 
 
