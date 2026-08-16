@@ -5,6 +5,7 @@
 
 <br><br>
 
+<!-- ========= Start REPO TITLE ========= -->
 # <p align="center">1 — [AI / ML]() · [Neural Networks]() · [Hub]() 🦾👽🪽</p>
 
 ### <p align="center">A structured journey through **Neural Networks**, from foundational concepts to advanced architectures, combining theory, hands-on experimentation, model development, and real-world AI applications.</p>
@@ -15,8 +16,17 @@ PUC-SP • 5th and  6th  Semester • 2026<br>
 Neural Networks • Deep Learning • Real-world Applications
 </p>
 
-<br><br>
+<br>
 <!-- ========= END REPO TITLE ========= -->
+
+<!-- ========= Start Teaser ========= -->
+###### <p align="center"> ✨ **Training models to predict the next token... while humans question the previous one .**
+###### <p align="center"> ***Turning papers into projects, confusion into intuition, and GPUs into room heaters since forever***
+#### <p align="center"> ⚡️
+
+<br><br>
+<!-- ========= END Teaser ========= -->
+
 
 <!-- ========= START SPONSOR BADGE ========= -->
 #### <p align="center">[![Sponsor ॐ ⋆ ⋆ ⋆ ⋆ Mindful AI ⋆ ⋆ ⋆ ⋆ 𖤐](https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%F0%96%A4%90-brightgreen?logo=github)](https://github.com/sponsors/Mindful-AI-Research)
@@ -25,14 +35,12 @@ Neural Networks • Deep Learning • Real-world Applications
 <!-- ========= END SPONSOR BADGE ========= -->
 
 <!-- =========  START PUC HEADER GIF ========= -->
-
 <p align="center">
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
 
 <br><br><br><br>
 <!-- =========  END PUC HEADER GIF ========= -->
-
 
 <!-- ======================================= Start nstitucional INFOR ===========================================  -->
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  <br>
@@ -74,11 +82,14 @@ Neural Networks • Deep Learning • Real-world Applications
 
 <!-- ========= START Repo TIP ========= -->
 > [!TIP]
+> 
 > ### 🦾👽🪽 AI Resources
 >
 > High-signal links for learning, building, and understanding modern AI systems.
+> 
+> <br>
 >
-> **Core Reading**
+> 📗**Core Reading**
 > - [*Hands-On Machine Learning with Scikit-Learn & TensorFlow* - Aurélien Géron](https://github.com/Mindful-AI-Assistants/1-AI-MachineLearning_Main_Repository-PUCSP/blob/592fb02bd2868e9342d8584d57dcded7c15f41d1/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
 >
 > - [*Artificial Intelligence: A Modern Approach* - Peter Norvig & Stuart Russell](https://github.com/Mindful-AI-Assistants/1-AI_Machine-Learning_Hub/blob/67b85178e068072f89a4b6d0fc2d58daba0c08b4/AI_MLPapers_%20Books_Etc/AI_A_Modern_Approach-Peter-Norvig_Stuart-Russell.pdf)
@@ -89,7 +100,8 @@ Neural Networks • Deep Learning • Real-world Applications
 > 
 > <br>
 >
-> **🔗 References**
+> 🔗 **References**
+> 
 > - [Stanford Online — AI Programs](https://stanford.io/ai)
 > - [Building LLMs — Yann Dubois (Stanford / Alpaca)](https://youtu.be/9vM4p9NN0Ts?si=ubYz-Q_q3Oewh-4j)
 > - [CS229: Machine Learning — Stanford](https://cs229.stanford.edu)
@@ -100,20 +112,14 @@ Neural Networks • Deep Learning • Real-world Applications
 > - [RNNs Effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 > - [`run.c` (llama2.c)](https://github.com/karpathy/llama2.c/blob/350e04fe35433e6d2941dce5a1f53308f87058eb/run.c)
 >
-> 
->  ** 🛠 Tools**
+>  <br>
+>
+>   🛠 **Tools**
 >  - [Teachable Machine](https://teachablemachine.withgoogle.com);  a lightweight, browser-based tool from Google for rapidly training and testing image classifiers with your own data.
 >
->  <br> <br>
+>  <br>
 >
 > [_Signal]() > noise. [Curiosity]() > hype. [Coffee]() > convergence._
->
-> ***Training models to predict the next token[...]() While humans question the previous one*** [.]() <br>
-> ***Turning papers into projects[,]() confusion into intuition[,]() and GPUs into room heaters*** [.]()  <br>
-> ⚡️
->
-> <br>
->
 
 <br><br>
 
