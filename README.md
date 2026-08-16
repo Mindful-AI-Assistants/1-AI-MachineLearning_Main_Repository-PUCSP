@@ -5,7 +5,10 @@
 
 <br><br>
 
-#  <p align="center"> 1-  [AI]() / [Machine Learning]() - [Hub]() 🦾👽🪽
+# <p align="center">1 — [AI / ML]() · [Neural Networks]() · [Hub]() 🦾👽🪽</p>
+
+### <p align="center">A structured journey through **Neural Networks**, from foundational concepts to advanced architectures, combining theory, hands-on experimentation, model development, and real-world AI applications.</p>
+
 
 
 <p align="center">
@@ -51,7 +54,7 @@ Neural Networks • Deep Learning • Real-world Applications
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 128 Hours <br>
+[Course Repo:]() AI / ML  -  <br>
 **Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
 **Author:** [Fabiana ⚡️ Campnari]() 
 
@@ -157,7 +160,7 @@ https://github.com/user-attachments/assets/b937a30a-bb12-449e-b2a9-5d7add9ac488
 
 <br>
 
-This repository outlines a structured journey from **foundations to advanced neural architectures**, combining theory, hands-on practice, and real-world applications.
+This repository outlines a structured journey from [*foundations to advanced Neural Networks architectures**](), combining theory, hands-on practice, and real-world applications.
 
 <br>
 
