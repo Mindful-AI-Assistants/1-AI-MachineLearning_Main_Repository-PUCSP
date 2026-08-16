@@ -10,32 +10,19 @@
 ### <p align="center">A structured journey through **Neural Networks**, from foundational concepts to advanced architectures, combining theory, hands-on experimentation, model development, and real-world AI applications.</p>
 
 
-
 <p align="center">
 PUC-SP • 5th and  6th  Semester • 2026<br>
 Neural Networks • Deep Learning • Real-world Applications
 </p>
 
-
 <br><br>
-
 <!-- ========= END REPO TITLE ========= -->
-
 
 <!-- ========= START SPONSOR BADGE ========= -->
 #### <p align="center">[![Sponsor ॐ ⋆ ⋆ ⋆ ⋆ Mindful AI ⋆ ⋆ ⋆ ⋆ 𖤐](https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%F0%96%A4%90-brightgreen?logo=github)](https://github.com/sponsors/Mindful-AI-Research)
 
 <br><br>
 <!-- ========= END SPONSOR BADGE ========= -->
-
-
-
-<!-- ========= START Demmo Video / PUC HEADER GIF ========= 
-
-
-<br><br>
-<!-- ========= END Demmo Video / PUC HEADER GIF ========= -->
-
 
 <!-- =========  START PUC HEADER GIF ========= -->
 
@@ -48,15 +35,12 @@ Neural Networks • Deep Learning • Real-world Applications
 
 
 <!-- ======================================= Start nstitucional INFOR ===========================================  -->
-### Machine Learning Integrated Project - PUC-SP 5th Semester (2026)
-
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  <br>
 [**School:**]() FACEI — Computer Science Department  <br>
 [**Course:**]() BSc in Human-Centered AI & Data Science • 5th and  6th Semester • 2026 <br>
 [**Subject:**](): AI / ML  - Neural Networks  <br>
 **Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
 **Author:** [Fabiana ⚡️ Campnari]() 
-
 
 <br><br><br><br>
 <!-- ========= END Institucional INFO ========= -->
@@ -65,15 +49,15 @@ Neural Networks • Deep Learning • Real-world Applications
 <!-- ========= START NOTE ========= -->
 > [!WARNING]
 >
-> ⚠️ Projects may be publicly shared when permitted.  
-> The focus is on applied, hands-on learning with real datasets in AI governance and security contexts.  
-> All sensitive content remains protected in private repositories when required.
+>  *  ⚠️ Projects may be made [publicly available]() whenever possible  
 >
+> * The course emphasizes **hands-on experience** with real datasets
+> * Activities follow [**PUC-SP academic and ethical guidelines**]()
+> * Restricted material remains **confidential**
+> * Extension activities are part of the course design and connect technical work to community-facing impact
 
 <br><br>
 <!-- ========= END NOTE ========= -->
-
-
 
 <!-- ========= START BADGES ========= -->
 <p align="center">
