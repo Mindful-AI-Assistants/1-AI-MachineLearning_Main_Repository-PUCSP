@@ -66,11 +66,11 @@ Neural Networks • Deep Learning • Real-world Applications
 **Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
 **Author:** [Fabiana ⚡️ Campnari]() 
 
-<br><br>
+<br>
 
 #
 
-<br><br>
+<br>
 <!-- ========= END Institucional INFO ========= -->
 
 
