@@ -16,15 +16,31 @@ PUC-SP • 5th and  6th  Semester • 2026<br>
 Neural Networks • Deep Learning • Real-world Applications
 </p>
 
-<br>
+<br><br>
 <!-- ========= END REPO TITLE ========= -->
+
+<!-- ========= START BADGES ========= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/MLP-Neural%20Networks-1ABC9C" />
+  <img src="https://img.shields.io/badge/CNN-Computer%20Vision-16A085" />
+  <img src="https://img.shields.io/badge/RNN-Sequential%20Data-48C9B0" />
+  <img src="https://img.shields.io/badge/GAN-Generative%20Models-20B2AA" />
+  <img src="https://img.shields.io/badge/RL-Reinforcement%20Learning-76D7C4" />
+</p>
+
+<br><br>
+<!-- ========= END START BADGES ========= -->
 
 <!-- ========= Start Teaser ========= -->
 ###### <p align="center"> ✨ **Training models to predict the next token... while humans question the previous one .**
 ###### <p align="center"> ***Turning papers into projects, confusion into intuition, and GPUs into room heaters since forever***
 #### <p align="center"> ⚡️
 
-<br><br>
+<br>
+
+#
+
+<br>
 <!-- ========= END Teaser ========= -->
 
 
@@ -39,7 +55,7 @@ Neural Networks • Deep Learning • Real-world Applications
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
 
-<br><br><br><br>
+<br><br>
 <!-- =========  END PUC HEADER GIF ========= -->
 
 <!-- ======================================= Start nstitucional INFOR ===========================================  -->
@@ -50,7 +66,11 @@ Neural Networks • Deep Learning • Real-world Applications
 **Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
 **Author:** [Fabiana ⚡️ Campnari]() 
 
-<br><br><br><br>
+<br><br>
+
+#
+
+<br><br>
 <!-- ========= END Institucional INFO ========= -->
 
 
@@ -67,17 +87,7 @@ Neural Networks • Deep Learning • Real-world Applications
 <br><br>
 <!-- ========= END NOTE ========= -->
 
-<!-- ========= START BADGES ========= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/MLP-Neural%20Networks-1ABC9C" />
-  <img src="https://img.shields.io/badge/CNN-Computer%20Vision-16A085" />
-  <img src="https://img.shields.io/badge/RNN-Sequential%20Data-48C9B0" />
-  <img src="https://img.shields.io/badge/GAN-Generative%20Models-20B2AA" />
-  <img src="https://img.shields.io/badge/RL-Reinforcement%20Learning-76D7C4" />
-</p>
 
-<br><br><br><br>
-<!-- ========= END START BADGES ========= -->
 
 
 <!-- ========= START Repo TIP ========= -->
