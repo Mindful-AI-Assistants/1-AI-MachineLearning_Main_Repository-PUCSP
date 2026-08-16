@@ -84,10 +84,12 @@ Neural Networks • Deep Learning • Real-world Applications
 > * Restricted material remains **confidential**
 > * Extension activities are part of the course design and connect technical work to community-facing impact
 
-<br><br>
+<br>
+
+#
+
+<br>
 <!-- ========= END NOTE ========= -->
-
-
 
 
 <!-- ========= START Repo TIP ========= -->
@@ -130,10 +132,6 @@ Neural Networks • Deep Learning • Real-world Applications
 >  <br>
 >
 > [_Signal]() > noise. [Curiosity]() > hype. [Coffee]() > convergence._
-
-<br><br>
-
-#
 
 <br><br>
 <!-- ========= END Repo TIP ========= -->
