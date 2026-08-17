@@ -6,7 +6,7 @@
 <br><br>
 
 <!-- ========= Start REPO TITLE ========= -->
-# <p align="center">1 — [AI / ML]() · [Neural Networks]() · [Hub]() 🦾👽🪽</p>
+# <p align="center">1 — [AI / ML]() · [Neural Networks]() · [Hub]() 🦾👁️🪽 </p> 
 
 ### <p align="center">A structured journey through **Neural Networks**, from foundational concepts to advanced architectures, combining theory, hands-on experimentation, model development, and real-world AI applications.</p>
 
@@ -93,7 +93,7 @@
 <!-- ========= START Repo TIP ========= -->
 > [!TIP]
 > 
-> ### 🦾👽🪽 AI Resources
+> ### 🦾👁️🪽 AI Resources
 >
 > High-signal links for learning, building, and understanding modern AI systems.
 > 
